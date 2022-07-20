@@ -1,1 +1,8 @@
-# WildVacation
+# Wild Vacation
+
+page of the site with adaptive
+
+## _Исследуйте мир вместе с нами_
+
+> Брось себе вызов.
+> Отправься в путешествия в дикие уголки природы.
